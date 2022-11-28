@@ -1,20 +1,23 @@
-<img src="pack.png">
+<img src="pack.png" height="128">
 
 # Green Screen Panorama
 
-TODO: entities, paitings, mods, better icon, publish
+TODO: entities, mods, better icon
 
-Simple resourcepack of `#00ff00` made to assist in capturing shots
+Simple resourcepack of made to assist in capturing shots
 on Minecraft: Java Edition
 
 some images
 
-#12181b - also in palette
+## Donwload
 
-## Use
+Download from [Github Releases Tab](https://github.com/shateq/Green-Screen-Panorama/releases)! Head there and click on the desired version and the corresponding .zip file.
 
-Download from
+- [Modrinth](https://modrinth.com/resourcepack/green-screen-panorama)
+- [CurseForge](https://www.curseforge.com/minecraft/texture-packs/green-screen)
 
-- github code as a zip
-- modrinth
-- curseforge
+```
+Palette:
+green - #00ff00
+gray - #12181b
+```
